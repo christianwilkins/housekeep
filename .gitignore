@@ -9,6 +9,10 @@ dist/
 web-build/
 expo-env.d.ts
 
+# Idea IDE
+.idea/
+.npmrc
+
 # Native
 *.orig.*
 *.jks
