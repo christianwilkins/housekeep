@@ -11,6 +11,7 @@ expo-env.d.ts
 
 # Idea IDE
 .idea/
+.npmrc
 
 # Native
 *.orig.*
